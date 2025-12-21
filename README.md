@@ -1,6 +1,6 @@
 # 📊 Customer Churn Analysis and Prediction
 
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen) ![Python](https://img.shields.io/badge/Python-3.10-blue) ![ML](https://img.shields.io/badge/Machine%20Learning-Logistic%20Regression-orange)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen) ![Python](https://img.shields.io/badge/Python-blue) ![ML](https://img.shields.io/badge/Machine%20Learning-Logistic%20Regression-orange)
 
 ---
 
@@ -29,7 +29,7 @@ This project analyzes customer churn in the telecom industry and builds a predic
 
 ## 🔹 Technologies Used
 
-- Python 3.x  
+- Python 
 - pandas, NumPy  
 - Matplotlib, Seaborn  
 - scikit-learn (Machine Learning)
