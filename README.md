@@ -27,15 +27,6 @@ This project analyzes customer churn in the telecom industry and builds a predic
 
 ---
 
-## 🔹 Technologies Used
-
-- Python 
-- pandas, NumPy  
-- Matplotlib, Seaborn  
-- scikit-learn (Machine Learning)
-
----
-
 ## 🔹 Key Insights
 
 - Customers with **short tenure** and **high monthly charges** are more likely to churn.  
